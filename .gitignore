@@ -1,0 +1,2 @@
+/conf/nginx/ssl/*.crt
+/conf/nginx/ssl/*.key
